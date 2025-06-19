@@ -8,15 +8,15 @@ if (app) {
   });
 
   typewriter
-    .typeString('Troca de fluido e reparo em Transmissão Automática e Robotizada.')
+    .typeString('Transmissão Automática e Robotizada.')
     .pauseFor(2000)
     .changeDeleteSpeed(15)
     .deleteAll()
-    .typeString('Sistemas de Transmissão Automática.')
+    .typeString('Troca de fluidos.')
     .pauseFor(2000)
     .changeDeleteSpeed(15)
     .deleteAll()
-    .typeString('Revisão e reparo em Motor, Freios, Suspensão e Arrefecimento.')
+    .typeString('Motor, câmbio, freios, suspensão e arrefecimento.')
     .pauseFor(2000)
     .changeDeleteSpeed(15)
     .deleteAll()
